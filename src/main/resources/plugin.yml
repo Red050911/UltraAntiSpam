@@ -1,0 +1,6 @@
+name: UltraAntiSpam
+version: '${project.version}'
+main: io.github.red050911.plugin.ultraantispam.UltraAntiSpam
+api-version: 1.18
+authors: [ Red050911 ]
+description: UltraAntiSpam is a simple plugin for stopping chat spam.

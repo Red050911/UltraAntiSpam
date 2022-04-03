@@ -1,0 +1,12 @@
+# UltraAntiSpam configuration
+config:
+  # The sensitivity of the spam filter. The higher, the more sensitive. DO NOT SET TO ZERO!
+  sensitivity: 1
+  # The message sent to players that start spamming. Use "color." instead of "§" for adding colors.
+  msg: color.cPlease do not spam!
+  # Some simple fixes for issues in the filter.
+  fixes:
+    # If true, filter is case-insensitive
+    case: true
+    # If true, letters added to the beginning or end will still count the message as spam.
+    lettersAdded: true
