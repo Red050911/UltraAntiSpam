@@ -1,3 +1,4 @@
+[![build](https://github.com/Red050911/UltraAntiSpam/actions/workflows/build.yml/badge.svg)](https://github.com/Red050911/UltraAntiSpam/actions/workflows/build.yml)
 # UltraAntiSpam
 A simple, lightweight, FOSS anti-spam Bukkit/Spigot/Paper plugin.
 ## What does it do?
