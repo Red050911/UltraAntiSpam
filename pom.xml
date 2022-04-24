@@ -6,7 +6,7 @@
 
     <groupId>io.github.red050911.plugin</groupId>
     <artifactId>UltraAntiSpam</artifactId>
-    <version>1.0</version>
+    <version>1.18.2-1.0</version>
     <packaging>jar</packaging>
 
     <name>UltraAntiSpam</name>
